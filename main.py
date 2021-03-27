@@ -18,7 +18,7 @@ A = L = G = 0
 
 
 def start():
-    global MOVE, button_s
+    global MOVE
     MOVE = not MOVE
 
 
